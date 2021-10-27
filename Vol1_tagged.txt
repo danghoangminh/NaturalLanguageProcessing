@@ -902,1173 +902,1187 @@ moved	VVD
 on	IN 
 and	CC 
 a	DT 
-few_JJ 
-minutes_NNS 
-later_RBR 
-,_, 
-Mr._NP 
-Dursley_NP 
-arrived_VVD 
-in_IN 
-the_DT 
-Grunnings_NP 
-parking_NN 
-lot_NN 
-,_, 
-his_PP$ 
-mind_NN 
-back_RB 
-on_IN 
-drills_NNS 
-._SENT
+few	JJ 
+minutes	NNS 
+later	RBR 
+,	, 
+Mr.	NP 
+Dursley	NP 
+arrived	VVD 
+in	IN 
+the	DT 
+Grunnings	NPS
+parking	NN 
+lot	NN 
+,	, 
+his	PP$ 
+mind	NN 
+back	RB 
+on	IN 
+drills	NNS 
+.	SENT
 
 (41) 
-Mr._NP 
-Dursley_NP 
-always_RB 
-sat_VVD 
-with_IN 
-his_PP$ 
-back_NN 
-to_TO 
-the_DT 
-window_NN 
-in_IN 
-his_PP$ 
-office_NN 
-on_IN 
-the_DT 
-ninth_JJ 
-floor_NN 
-._SENT 
+Mr.	NP 
+Dursley	NP 
+always	RB 
+sat	VVD 
+with	IN 
+his	PP$ 
+back	NN 
+to	TO 
+the	DT 
+window	NN 
+in	IN 
+his	PP$ 
+office	NN 
+on	IN 
+the	DT 
+ninth	JJ 
+floor	NN 
+.	SENT 
 
 (42)
-If_IN 
-he_PP 
-had_VHD 
-n't_RB 
-,_, 
-he_PP 
-might_MD 
-have_VH 
-found_VVN 
-it_PP 
-harder_JJR 
-to_TO 
-concentrate_VV 
-on_IN 
-drills_NNS 
-that_DT 
-morning_NN 
-._SENT
+If	IN 
+he	PP 
+had	VHD 
+n't	RB 
+,	, 
+he	PP 
+might	MD 
+have	VH 
+found	VVN 
+it	PP 
+harder	JJR 
+to	TO 
+concentrate	VV 
+on	IN 
+drills	NNS 
+that	DT 
+morning	NN 
+.	SENT
 
 (43) 
-He_PP 
-did_VVD 
-n't_RB 
-see_VV 
-the_DT 
-owls_NNS 
-swoop_NN 
-ing_NNS 
-past_JJ
-in_IN 
-broad_JJ 
-daylight_NN 
-,_, 
-though_IN 
-people_NNS 
-down_RB 
-in_IN 
-the_DT 
-street_NN 
-did_VVD 
-;_: 
-they_PP 
-pointed_VVD 
-and_CC 
-gazed_VVD 
-open-_NN 
-mouthed_VVD 
-as_IN 
-owl_NN 
-after_IN 
-owl_NN 
-sped_VVN 
-overhead_RB 
-._SENT 
+He	PP 
+did	VDD 
+n't	RB 
+see	VV 
+the	DT 
+owls	NNS 
+swooping	VHG
+past	JJ
+in	IN 
+broad	JJ 
+daylight	NN 
+,	, 
+though	IN 
+people	NNS 
+down	RB 
+in	IN 
+the	DT 
+street	NN 
+did	VDD 
+;	: 
+they	PP 
+pointed	VVD 
+and	CC 
+gazed	VVD 
+open-mouthed JJ 
+as	IN 
+owl	NN 
+after	IN 
+owl	NN 
+sped	VVN 
+overhead	RB 
+.	SENT 
 
 (44)
-Most_JJS 
-of_IN 
-them_PP 
-had_VHD 
-never_RB 
-seen_VVN 
-an_DT 
-owl_NN 
-even_RB 
-at_IN 
-nighttime_NN 
-._SENT 
+Most	JJS 
+of	IN 
+them	PP 
+had	VHD 
+never	RB 
+seen	VVN 
+an	DT 
+owl	NN 
+even	RB 
+at	IN 
+nighttime	NN 
+.	SENT 
 
 (45)
-Mr._NP 
-Dursley_NP 
-,_, 
-however_RB 
-,_, 
-had_VHD 
-a_DT 
-perfectly_RB 
-normal_JJ 
-,_, 
-owl-free_JJ 
-morning_NN 
-._SENT 
+Mr.	NP 
+Dursley	NP 
+,	, 
+however	RB 
+,	, 
+had	VHD 
+a	DT 
+perfectly	RB 
+normal	JJ 
+,	, 
+owl-free	JJ 
+morning	NN 
+.	SENT 
 
 (46)
-He_PP 
-yelled_VVD 
-at_IN 
-five_CD 
-different_JJ 
-people_NNS 
-._SENT 
+He	PP 
+yelled	VVD 
+at	IN 
+five	CD 
+different	JJ 
+people	NNS 
+.	SENT 
 
 (47)
-He_PP 
-made_VVD 
-several_JJ 
-important_JJ 
-telephone_NN 
-calls_NNS 
-and_CC 
-shouted_VVD 
-a_DT 
-bit_NN 
-more_RBR 
-._SENT 
+He	PP 
+made	VVD 
+several	JJ 
+important	JJ 
+telephone	NN 
+calls	NNS 
+and	CC 
+shouted	VVD 
+a	DT 
+bit	NN 
+more	RBR 
+.	SENT 
 
 (48)
-He_PP 
-was_VBD 
-in_IN 
-a_DT 
-very_RB 
-good_JJ 
-mood_NN 
-until_IN 
-lunchtime_NN 
-,_, 
-when_WRB 
-he_PP 
-thought_VVD 
-he_PP 
-'d_MD 
-stretch_VV 
-his_PP$ 
-legs_NNS 
-and_CC 
-walk_VV 
-across_IN 
-the_DT 
-road_NN 
-to_TO 
-buy_VV 
-himself_PP 
-a_DT 
-bun_NN 
-from_IN 
-the_DT 
-bakery_NN 
-._SENT 
+He	PP 
+was	VBD 
+in	IN 
+a	DT 
+very	RB 
+good	JJ 
+mood	NN 
+until	IN 
+lunchtime	NN 
+,	, 
+when	WRB 
+he	PP 
+thought	VVD 
+he	PP 
+'d	MD 
+stretch	VV 
+his	PP$ 
+legs	NNS 
+and	CC 
+walk	VV 
+across	IN 
+the	DT 
+road	NN 
+to	TO 
+buy	VV 
+himself	PP 
+a	DT 
+bun	NN 
+from	IN 
+the	DT 
+bakery	NN 
+.	SENT 
 
 (49)
-He_PP 
-'d_VHD 
-forgotten_VVN
-all_RB 
-about_IN 
-the_DT 
-people_NNS 
-in_IN 
-cloaks_NNS 
-until_IN 
-he_PP 
-passed_VVD 
-a_DT 
-group_NN 
-of_IN 
-them_PP 
-next_RB 
-to_TO 
-the_DT 
-baker_NN 
-'s_POS 
-._SENT 
+He	PP 
+'d	VHD 
+forgotten	VVN
+all	RB 
+about	IN 
+the	DT 
+people	NNS 
+in	IN 
+cloaks	NNS 
+until	IN 
+he	PP 
+passed	VVD 
+a	DT 
+group	NN 
+of	IN 
+them	PP 
+next	RB 
+to	TO 
+the	DT 
+baker	NN 
+'s	POS 
+.	SENT 
 
 (50)
-He_PP 
-eyed_VVD 
-them_PP 
-angrily_RB 
-as_IN he_PP passed_VVD ._SENT 
+He	PP 
+eyed	VVD 
+them	PP 
+angrily	RB 
+as	IN 
+he	PP 
+passed	VVD 
+.	SENT 
 
 (51)
-He_PP 
-did_VVD 
-n't_RB 
-know_VV 
-why_WRB ,_, 
-but_CC 
-they_PP 
-made_VVD 
-him_PP 
-uneasy_JJ 
-._SENT 
+He	PP 
+did	VdD 
+n't	RB 
+know	VV 
+why	WRB 
+,	, 
+but	CC 
+they	PP 
+made	VVD 
+him	PP 
+uneasy	JJ 
+.	SENT 
 
 (52)
-This_DT 
-bunch_NN 
-were_VBD 
-whispering_VVG 
-excitedly_RB 
-,_, 
-too_RB 
-,_, 
-and_CC 
-he_PP 
-could_MD 
-n't_RB 
-see_VV 
-a_DT 
-single_JJ 
-collecting_NN 
-tin_NN 
-._SENT 
+This	DT 
+bunch	NN 
+were	VBD 
+whispering	VVG 
+excitedly	RB 
+,	, 
+too	RB 
+,	, 
+and	CC 
+he	PP 
+could	MD 
+n't	RB 
+see	VV 
+a	DT 
+single	JJ 
+collecting	NN 
+tin	NN 
+.	SENT 
 
 (53)
-It_PP 
-was_VBD 
-on_IN 
-his_PP$ 
-way_NN 
-back_RB 
-past_IN 
-them_PP 
-,_, 
-clutching_VVG 
-a_DT 
-large_JJ 
-doughnut_NN 
-in_IN 
-a_DT 
-bag_NN 
-,_, 
-that_WDT 
-he_PP 
-caught_VVN 
-a_DT 
-few_JJ 
-words_NNS 
-of_IN 
-what_WP 
-they_PP 
-were_VBD 
-saying_VVG 
-._SENT 
+It	PP 
+was	VBD 
+on	IN 
+his	PP$ 
+way	NN 
+back	RB 
+past	IN 
+them	PP 
+,	, 
+clutching	VVG 
+a	DT 
+large	JJ 
+doughnut	NN 
+in	IN 
+a	DT 
+bag	NN 
+,	, 
+that	DT 
+he	PP 
+caught	VVN 
+a	DT 
+few	JJ 
+words	NNS 
+of	IN 
+what	WP 
+they	PP 
+were	VBD 
+saying	VVG 
+.	SENT 
 
 
 (54)
-"_`` 
-The_DT 
-Potters_NP 
-,_, 
-that_WDT 
-'s_VBZ 
-right_JJ 
-,_, 
-that_WDT 
-'s_VBZ 
-what_WP 
-I_PP 
-heard_VVD 
-yes_UH 
-,_, 
-their_PP$ 
-son_NN 
-,_, 
-Harry_NP 
-"_'' 
-Mr._NP 
-Dursley_NP 
-stopped_VVD 
-dead_JJ 
-._SENT 
+"	`` 
+The	DT 
+Potters	NP 
+,	, 
+that	DT 
+'s	VBZ 
+right	JJ 
+,	, 
+that	DT 
+'s	VBZ 
+what	WP 
+I	PP 
+heard	VVD 
+yes	UH 
+,	, 
+their	PP$ 
+son	NN 
+,	, 
+Harry	NP 
+"	'' 
+Mr.	NP 
+Dursley	NP 
+stopped	VVD 
+dead	JJ 
+.	SENT 
 
 (55)
-Fear_NN 
-flooded_VVD 
-him_PP 
-._SENT 
+Fear	NN 
+flooded	VVD 
+him	PP 
+.	SENT 
 
 (56)
-He_PP 
-looked_VVD 
-back_RB 
-at_IN 
-the_DT 
-whisperers_NNS 
-as_RB 
-if_IN 
-he_PP 
-wanted_VVD 
-to_TO 
-say_VV 
-something_NN 
-to_TO 
-them_PP 
-,_, 
-but_CC 
-thought_VVD 
-better_JJR 
-of_IN it_PP ._SENT 
+He	PP 
+looked	VVD 
+back	RB 
+at	IN 
+the	DT 
+whisperers	NNS 
+as	RB 
+if	IN 
+he	PP 
+wanted	VVD 
+to	TO 
+say	VV 
+something	NN 
+to	TO 
+them	PP 
+,	, 
+but	CC 
+thought	VVD 
+better	JJR 
+of	IN 
+it	PP 
+.	SENT 
 
 (57)
-He_PP 
-dashed_VVD 
-back_RB 
-across_IN 
-the_DT 
-road_NN 
-,_, 
-hurried_VVN 
-up_RP 
-to_TO 
-his_PP$ 
-office_NN 
-,_, 
-snapped_VVN 
-at_IN 
-his_PP$ 
-secretary_NN 
-not_RB 
-to_TO 
-disturb_VV 
-him_PP 
-,_, 
-seized_VVD 
-his_PP$ 
-telephone_NN 
-,_, 
-and_CC 
-had_VHD 
-almost_RB 
-finished_VVD 
-dialing_VVG 
-his_PP$ 
-home_NN 
-number_NN 
-when_WRB 
-he_PP 
-changed_VVD 
-his_PP$ 
-mind_NN 
-._SENT 
+He	PP 
+dashed	VVD 
+back	RB 
+across	IN 
+the	DT 
+road	NN 
+,	, 
+hurried	VVN 
+up	RP 
+to	TO 
+his	PP$ 
+office	NN 
+,	, 
+snapped	VVN 
+at	IN 
+his	PP$ 
+secretary	NN 
+not	RB 
+to	TO 
+disturb	VV 
+him	PP 
+,	, 
+seized	VVD 
+his	PP$ 
+telephone	NN 
+,	, 
+and	CC 
+had	VHD 
+almost	RB 
+finished	VVD 
+dialing	VVG 
+his	PP$ 
+home	NN 
+number	NN 
+when	WRB 
+he	PP 
+changed	VVD 
+his	PP$ 
+mind	NN 
+.	SENT 
 
 (58)
-He_PP 
-put_VVP 
-the_DT 
-receiver_NN 
-back_RB 
-down_RB 
-and_CC 
-stroked_VVD 
-his_PP$ 
-mustache_NN 
-,_, 
-thinking_VVG 
-..._: 
-no_UH 
-,_, 
-he_PP 
-was_VBD 
-being_VBG 
-stupid_JJ 
-._SENT 
+He	PP 
+put	VVP 
+the	DT 
+receiver	NN 
+back	RB 
+down	RB 
+and	CC 
+stroked	VVD 
+his	PP$ 
+mustache	NN 
+,	, 
+thinking	VVG 
+...	: 
+no	UH 
+,	, 
+he	PP 
+was	VBD 
+being	VBG 
+stupid	JJ 
+.	SENT 
 
 (59)
-Potter_NP 
-was_VBD 
-n't_RB 
-such_JJ 
-an_DT 
-unusual_JJ 
-name_NN 
-._SENT 
+Potter	NP 
+was	VBD 
+n't	RB 
+such	JJ 
+an	DT 
+unusual	JJ 
+name	NN 
+.	SENT 
 
 (60)
-He_PP 
-was_VBD 
-sure_RB 
-there_RB 
-were_VBD 
-lots_NNS 
-of_IN 
-people_NNS 
-called_VVN 
-Potter_NP 
-who_WP 
+He	PP 
+was	VBD 
+sure	RB 
+there	RB 
+were	VBD 
+lots	NNS 
+of	IN 
+people	NNS 
+called	VVN 
+Potter	NP 
+who	WP 
 had_VHD 
-a_DT 
-son_NN 
-called_VVN 
-Harry_NP 
-._SENT 
+a	DT 
+son	NN 
+called	VVN 
+Harry	NP 
+.	SENT 
 
 (61)
-Come_VVN 
-to_TO 
-think_VV 
-of_IN 
-it_PP 
-,_, 
-he_PP 
-was_VBD 
-n't_RB 
-even_RB 
-sure_RB 
-his_PP$ 
-nephew_NN 
-was_VBD 
-called_VVN 
-Harry_NP 
-._SENT 
+Come	VVN 
+to	TO 
+think	VV 
+of	IN 
+it	PP 
+,	, 
+he	PP 
+was	VBD 
+n't	RB 
+even	RB 
+sure	RB 
+his	PP$ 
+nephew	NN 
+was	VBD 
+called	VVN 
+Harry	NP 
+.	SENT 
 
 (62)
-He_PP 
-'d_MD 
-never_RB 
-even_RB 
-seen_VVN 
-the_DT 
-boy_NN 
-._SENT 
+He	PP 
+'d	MD 
+never	RB 
+even	RB 
+seen	VVN 
+the	DT 
+boy	NN 
+.	SENT 
 
 (63)
-It_PP 
-might_MD 
-have_VH 
-been_VBN 
-Harvey_NP 
-._SENT 
+It	PP 
+might	MD 
+have	VH 
+been	VBN 
+Harvey	NP 
+.	SENT 
 
 (64)
-Or_CC 
-Harold_NP 
-._SENT 
+Or	CC 
+Harold	NP 
+.	SENT 
 
 (65)
-There_EX 
-was_VBD 
-no_DT 
-point_NN 
-in_IN 
-worrying_VVG 
-Mrs._NP 
-Dursley_NP 
-;_: 
-she_PP 
-always_RB 
-got_VVD 
-so_RB 
-upset_VV 
-at_IN 
-any_DT 
-mention_NN 
-of_IN 
-her_PP 
-sister_NN ._SENT 
+There	EX 
+was	VBD 
+no	DT 
+point	NN 
+in	IN 
+worrying	VVG 
+Mrs.	NP 
+Dursley	NP 
+;	: 
+she	PP 
+always	RB 
+got	VVD 
+so	RB 
+upset	VV 
+at	IN 
+any	DT 
+mention	NN 
+of	IN 
+her	PP$ 
+sister	NN 
+.	SENT 
 
 (66)
-He_PP 
-did_VVD 
-n't_RB 
-blame_VV 
-her_PP 
---_: 
-if_IN 
-he_PP 
-'d_VHD 
-had_VHN 
-a_DT 
-sister_NN 
-like_IN 
-that_DT 
-..._: 
-but_CC 
-all_RB 
-the_DT 
-same_JJ 
-,_, 
-those_DT 
-people_NNS 
-in_IN 
-cloaks_NNS 
-..._: 
-He_PP 
-found_VVD 
-it_PP 
-a_DT 
-lot_NN 
-harder_RBR 
-to_TO 
-concentrate_VV 
-on_IN 
-drills_NNS 
-that_IN/that 
-afternoon_NN 
-and_NP 
-when_WRB 
-he_PP 
-left_VVD 
-the_DT 
-building_NN 
-at_IN 
-five_CD 
-o'clock_RB 
-,_, 
-he_PP 
-was_VBD 
-still_RB 
-so_RB 
-worried_VVN 
-that_DT 
-he_PP 
-walked_VVD 
-straight_RB 
-into_IN 
-someone_NN 
-just_RB 
-outside_IN 
-the_DT 
-door_NN 
-._SENT 
+He	PP 
+did	VDD 
+n't	RB 
+blame	VV 
+her	PP$ 
+--	: 
+if	IN 
+he	PP 
+'d	VHD 
+had	VHN 
+a	DT 
+sister	NN 
+like	IN 
+that	DT 
+...	: 
+but	CC 
+all	RB 
+the	DT 
+same	JJ 
+,	, 
+those	DT 
+people	NNS 
+in	IN 
+cloaks	NNS 
+...	: 
+He	PP 
+found	VVD 
+it	PP 
+a	DT 
+lot	NN 
+harder	RBR 
+to	TO 
+concentrate	VV 
+on	IN 
+drills	NNS 
+that	IN/that 
+afternoon	NN 
+and	NP 
+when	WRB 
+he	PP 
+left	VVD 
+the	DT 
+building	NN 
+at	IN 
+five	CD 
+o'clock	RB 
+,	, 
+he	PP 
+was	VBD 
+still	RB 
+so	RB 
+worried	VVN 
+that	DT 
+he	PP 
+walked	VVD 
+straight	RB 
+into	IN 
+someone	NN 
+just	RB 
+outside	IN 
+the	DT 
+door	NN 
+.	SENT 
 
 (67)
-"_'' 
-Sorry_RB 
-,_, 
-"_'' 
-he_PP 
-grunted_VVD 
-,_, 
-as_IN 
-the_DT 
-tiny_JJ 
-old_JJ 
-man_NN 
-stumbled_VVD 
-and_CC 
-almost_RB 
-fell_VVD 
-._SENT 
+"	'' 
+Sorry	RB 
+,	, 
+"	'' 
+he	PP 
+grunted	VVD 
+,	, 
+as	IN 
+the	DT 
+tiny	JJ 
+old	JJ 
+man	NN 
+stumbled	VVD 
+and	CC 
+almost	RB 
+fell	VVD 
+.	SENT 
 
 (68)
-It_PP 
-was_VBD 
-a_DT 
-few_JJ 
-seconds_NNS 
-before_IN 
-Mr._NP 
-Dursley_NP 
-realized_VVD 
-that_IN/that 
-the_DT 
-man_NN 
-was_VBD 
-wearing_VVG 
-a_DT 
-violet_JJ 
-cloak_NN 
-._SENT 
+It	PP 
+was	VBD 
+a	DT 
+few	JJ 
+seconds	NNS 
+before	IN 
+Mr.	NP 
+Dursley	NP 
+realized	VVD 
+that	IN/that 
+the	DT 
+man	NN 
+was	VBD 
+wearing	VVG 
+a	DT 
+violet	JJ 
+cloak	NN 
+.	SENT 
 
 (69)
-He_PP 
-did_VVD 
-n't_RB 
-seem_VV 
-at_IN 
-all_DT 
-upset_NN 
-at_IN 
-being_VBG 
-almost_RB 
-knocked_VVN 
-to_TO 
-the_DT 
-ground_NN 
-._SENT 
+He	PP 
+did	VDD 
+n't	RB 
+seem	VV 
+at	IN 
+all	DT 
+upset	NN 
+at	IN 
+being	VBG 
+almost	RB 
+knocked	VVN 
+to	TO 
+the	DT 
+ground	NN 
+.	SENT 
 
 (70)
-On_IN 
-the_DT 
-contrary_NN 
-,_, 
-his_PP$ 
-face_NN 
-split_NN 
-into_IN 
-a_DT 
-wide_JJ 
-smile_NN 
-and_CC 
-he_PP 
-said_VVD 
-in_IN 
-a_DT 
-squeaky_JJ 
-voice_NN 
-that_IN/that 
-made_VVN 
-passersby_NNS 
-stare_VVP 
-,_, 
-"_`` 
-Do_VVP 
-n't_RB 
-be_VB 
-sorry_JJ 
-,_, 
-my_PP$ 
-dear_JJ 
-sir_NN 
-,_, 
-for_IN 
-nothing_NN 
-could_MD 
-upset_VV 
-me_PP 
-today_NN 
-!_SENT 
+On	IN 
+the	DT 
+contrary	NN 
+,	, 
+his	PP$ 
+face	NN 
+split	VV 
+into	IN 
+a	DT 
+wide	JJ 
+smile	NN 
+and	CC 
+he	PP 
+said	VVD 
+in	IN 
+a	DT 
+squeaky	JJ 
+voice	NN 
+that	IN/that 
+made	VVN 
+passersby	NNS 
+stare	VVP 
+,	, 
+"	`` 
+Do	VD 
+n't	RB 
+be	VB 
+sorry	JJ 
+,	, 
+my	PP$ 
+dear	JJ 
+sir	NN 
+,	, 
+for	IN 
+nothing	NN 
+could	MD 
+upset	VV 
+me	PP 
+today	NN 
+!	SENT 
 
 (71)
-Rejoice_VV 
-,_, 
-for_IN 
-You-Know-Who_NP 
-has_VHZ 
-gone_VVN 
-at_IN 
-last_JJ 
-!_SENT 
+Rejoice	VV 
+,	, 
+for	IN 
+You-Know-Who	NP 
+has	VHZ 
+gone	VVN 
+at	IN 
+last	JJ 
+!	SENT 
 
 (72)
-Even_RB 
-Muggles_NP 
-like_IN 
-yourself_PP 
-should_MD 
-be_VB 
-celebrating_VVG 
-,_, 
-this_DT 
-happy_JJ 
-,_, 
-happy_JJ 
-day_NN 
-!_SENT 
-"_'' 
+Even	RB 
+Muggles	NP 
+like	IN 
+yourself	PP 
+should	MD 
+be	VB 
+celebrating	VVG 
+,	, 
+this	DT 
+happy	JJ 
+,	, 
+happy	JJ 
+day	NN 
+!	SENT 
+"	'' 
 
 (73)
-And_CC 
-the_DT 
-old_JJ 
-man_NN 
-hugged_VVD 
-Mr._NP 
-Dursley_NP 
-around_IN 
-the_DT 
-middle_NN 
-and_CC 
-walked_VVD 
-off_RP 
-._SENT 
+And	CC 
+the	DT 
+old	JJ 
+man	NN 
+hugged	VVD 
+Mr.	NP 
+Dursley	NP 
+around	IN 
+the	DT 
+middle	NN 
+and	CC 
+walked	VVD 
+off	RP 
+.	SENT 
 
 (74)
-Mr._NP 
-Dursley_NP 
-stood_VVD 
-rooted_VVN 
-to_TO 
-the_DT 
-spot_NN 
-._SENT 
+Mr.	NP 
+Dursley	NP 
+stood	VVD 
+rooted	VVN 
+to	TO 
+the	DT 
+spot	NN 
+.	SENT 
 
 (75)
-He_PP 
-had_VHD 
-been_VBN 
-hugged_VVN 
-by_IN 
-a_DT 
-complete_JJ 
-stranger_NN 
-._SENT 
+He	PP 
+had	VHD 
+been	VBN 
+hugged	VVN 
+by	IN 
+a	DT 
+complete	JJ 
+stranger	NN 
+.	SENT 
 
 (76)
-He_PP 
-also_RB 
-thought_VVD 
-he_PP 
-had_VHD 
-been_VBN 
-called_VVN 
-a_DT 
-Muggle_NP 
-,_, 
-whatever_WDT 
-that_DT 
-was_VBD ._SENT 
+He	PP 
+also	RB 
+thought	VVD 
+he	PP 
+had	VHD 
+been	VBN 
+called	VVN 
+a	DT 
+Muggle	NP 
+,	, 
+whatever	WDT 
+that	DT 
+was	VBD 
+.	SENT 
 
 (77)
-He_PP 
-was_VBD 
-rattled_VVN 
-._SENT 
+He	PP 
+was	VBD 
+rattled	VVN 
+.	SENT 
 
 (78)
-He_PP 
-hurried_VVD 
-to_TO 
-his_PP$ 
-car_NN 
-and_CC 
-set_VVD 
-off_RP 
-for_IN 
-home_NN 
-,_, 
-hoping_VVG 
-he_PP 
-was_VBD 
-imagining_VVG 
-things_NNS 
-,_, 
-which_WDT 
-he_PP 
-had_VHD 
-never_RB 
-hoped_VVN 
-before_IN 
-,_, 
-because_IN 
-he_PP 
-did_VVD 
-n't_RB 
-approve_VV 
-of_IN 
-imagination_NN 
-._SENT 
+He	PP 
+hurried	VVD 
+to	TO 
+his	PP$ 
+car	NN 
+and	CC 
+set	VVD 
+off	RP 
+for	IN 
+home	NN 
+,	, 
+hoping	VVG 
+he	PP 
+was	VBD 
+imagining	VVG 
+things	NNS 
+,	, 
+which	WDT 
+he	PP 
+had	VHD 
+never	RB 
+hoped	VVN 
+before	IN 
+,	, 
+because	IN 
+he	PP 
+did	VDD 
+n't	RB 
+approve	VV 
+of	IN 
+imagination	NN 
+.	SENT 
 
 (79)
-As_IN 
-he_PP 
-pulled_VVD 
-into_IN 
-the_DT 
-driveway_NN 
-of_IN 
-number_NN 
-four_CD 
-,_, 
-the_DT 
-first_JJ 
-thing_NN 
-he_PP 
-saw_VVD 
---_: 
-and_CC 
-it_PP 
-did_VVD 
-n't_RB 
-improve_VV 
-his_PP$ 
-mood_NN 
---_: 
-was_VBD 
-the_DT 
-tabby_JJ
-cat_NN 
-he_PP 
-'d_VHD 
-spotted_VVN 
-that_DT 
-morning_NN 
-._SENT 
+As	IN 
+he	PP 
+pulled	VVD 
+into	IN 
+the	DT 
+driveway	NN 
+of	IN 
+number	NN 
+four	CD 
+,	, 
+the	DT 
+first	JJ 
+thing	NN 
+he	PP 
+saw	VVD 
+--	: 
+and	CC 
+it	PP 
+did	VDD 
+n't	RB 
+improve	VV 
+his	PP$ 
+mood	NN 
+--	: 
+was	VBD 
+the	DT 
+tabby	JJ
+cat	NN 
+he	PP 
+'d	VHD 
+spotted	VVN 
+that	DT 
+morning	NN 
+.	SENT 
 
 (80) 
-It_PP was_VBD now_RB sitting_VVG on_IN his_PP$ garden_NN wall_NN ._SENT 
+It	PP 
+was	VBD 
+now	RB 
+sitting	VVG 
+on	IN 
+his	PP$ 
+garden	NN 
+wall	NN 
+.	SENT 
 
 (81)
-He_PP 
-was_VBD 
-sure_JJ 
-it_PP 
-was_VBD 
-the_DT 
-same_JJ 
-one_CD 
-;_: 
-it_PP 
-had_VHD 
-the_DT 
-same_JJ 
-markings_NNS 
-around_IN 
-its_PP$ 
-eyes_NNS 
-._SENT
+He	PP 
+was	VBD 
+sure	JJ 
+it	PP 
+was	VBD 
+the	DT 
+same	JJ 
+one	CD 
+;	: 
+it	PP 
+had	VHD 
+the	DT 
+same	JJ 
+markings	NNS 
+around	IN 
+its	PP$ 
+eyes	NNS 
+.	SENT
 
 (82)
-"_'' 
-Shoo_VV 
-!_SENT 
-"_'' 
-said_VVD 
-Mr._NP 
-Dursley_NP 
-loudly_RB 
-._SENT 
+"	'' 
+Shoo	UH 
+!	SENT 
+"	'' 
+said	VVD 
+Mr.	NP 
+Dursley	NP 
+loudly	RB 
+.	SENT 
 
 (83)
-The_DT 
-cat_NN 
-did_VVD 
-n't_RB 
-move_VV 
-._SENT 
+The	DT 
+cat	NN 
+did	VVD 
+n't	RB 
+move	VV 
+.	SENT 
 
 (84)
-It_PP 
-just_RB 
-gave_VVD 
-him_PP 
-a_DT 
-stern_JJ 
-look_NN 
-._SENT 
+It	PP 
+just	RB 
+gave	VVD 
+him	PP 
+a	DT 
+stern	JJ 
+look	NN 
+.	SENT 
 
 (85)
-Was_VBD 
-this_DT 
-normal_JJ 
-cat_NN 
-behavior_NN 
-?_SENT 
+Was	VBD 
+this	DT 
+normal	JJ 
+cat	NN 
+behavior	NN 
+?	SENT 
 
 (86)
-Mr._NP 
-Dursley_NP 
-wondered_VVD 
-._SENT 
+Mr.	NP 
+Dursley	NP 
+wondered	VVD 
+.	SENT 
 
 (87)
-Trying_VVG 
-to_TO 
-pull_VV 
-himself_PP 
-together_RB 
-,_, 
-he_PP 
-let_VVP 
-himself_PP 
-into_IN 
-the_DT 
-house_NN 
-._SENT 
+Trying	VVG 
+to	TO 
+pull	VV 
+himself	PP 
+together	RB 
+,	, 
+he	PP 
+let	VVP 
+himself	PP 
+into	IN 
+the	DT 
+house	NN 
+.	SENT 
 
 (88)
-He_PP 
-was_VBD 
-still_RB 
-determined_VVN 
-not_RB 
-to_TO 
-mention_VV 
-anything_NN 
-to_TO 
-his_PP$ 
-wife_NN 
-._SENT 
+He	PP 
+was	VBD 
+still	RB 
+determined	VVN 
+not	RB 
+to	TO 
+mention	VV 
+anything	NN 
+to	TO 
+his	PP$ 
+wife	NN 
+.	SENT 
 
 
 (89)
-Mrs._NP 
-Dursley_NP 
-had_VHD 
-had_VHN 
+Mrs.	NP 
+Dursley	NP 
+had	VHD 
+had	VHN 
 a_DT 
-nice_JJ 
-,_, 
-normal_JJ 
-day_NN 
-._SENT 
+nice	JJ 
+,	, 
+normal	JJ 
+day	NN 
+.	SENT 
 
 (90)
-She_PP 
-told_VVD 
-him_PP 
-over_IN 
-dinner_NN 
-all_RB 
-about_IN 
-Mrs._NP 
-Next_NP 
-Door_NP 
-'s_POS 
-problems_NNS 
-with_IN 
-her_PP$ 
-daughter_NN 
-and_CC 
-how_WRB 
-Dudley_NP 
-had_VHD 
-learned_VVN 
-a_DT 
-new_JJ 
-word_NN 
-(_( 
-"_`` 
-Wo_NN 
-n't_RB 
-!_SENT 
-"_'' 
-)_) 
-._SENT 
+She	PP 
+told	VVD 
+him	PP 
+over	IN 
+dinner	NN 
+all	RB 
+about	IN 
+Mrs.	NP 
+Next	NP 
+Door	NP 
+'s	POS 
+problems	NNS 
+with	IN 
+her	PP$ 
+daughter	NN 
+and	CC 
+how	WRB 
+Dudley	NP 
+had	VHD 
+learned	VVN 
+a	DT 
+new	JJ 
+word	NN 
+(	( 
+"	`` 
+Won't_RB 
+!	SENT 
+"	'' 
+)	) 
+.	SENT 
 
 (91)
-Mr._NP 
-Dursley_NP 
-tried_VVD 
-to_TO 
-act_VV 
-normally_RB 
-._SENT 
+Mr.	NP 
+Dursley	NP 
+tried	VVD 
+to	TO 
+act	VV 
+normally	RB 
+.	SENT 
 
 (92)
-When_WRB 
-Dudley_NP 
-had_VHD 
-been_VBN 
-put_VVN 
-to_TO 
-bed_NN 
-,_, 
-he_PP 
-went_VVD 
-into_IN 
-the_DT 
-living_VVG 
-room_NN 
-in_IN 
-time_NN 
-to_TO 
-catch_VV 
-the_DT 
-last_JJ 
-report_NN 
-on_IN 
-the_DT 
-evening_NN 
-replaced-url_NN
-NONE_NONE 
-"_'' 
-And_CC 
-finally_RB 
-,_, 
-bird-watchers_NNS 
-everywhere_RB 
-have_VHP 
-reported_VVN 
-that_IN/that 
-the_DT 
-nation_NN 
-'s_POS 
-owls_NNS 
-have_VHP 
-been_VBN 
-behaving_VVG 
-very_RB 
-unusually_RB 
-today_NN 
-._SENT 
+When	WRB 
+Dudley	NP 
+had	VHD 
+been	VBN 
+put	VVN 
+to	TO 
+bed	NN 
+,	, 
+he	PP 
+went	VVD 
+into	IN 
+the	DT 
+living	JJ 
+room	NN 
+in	IN 
+time	NN 
+to	TO 
+catch	VV 
+the	DT 
+last	JJ 
+report	NN 
+on	IN 
+the	DT 
+evening	NN 
+replaced-url	NN
+NONE	NONE 
+"	'' 
+And	CC 
+finally	RB 
+,	, 
+bird-watchers	NNS 
+everywhere	RB 
+have	VHP 
+reported	VVN 
+that	IN/that 
+the	DT 
+nation	NN 
+'s	POS 
+owls	NNS 
+have	VHP 
+been	VBN 
+behaving	VVG 
+very	RB 
+unusually	RB 
+today	NN 
+.	SENT 
 
 (93)
-Although_IN 
-owls_NNS 
-normally_RB 
-hunt_NN 
-at_IN 
-night_NN 
-and_CC 
-are_VBP 
-hardly_RB 
-ever_RB 
-seen_VVN 
-in_IN 
-daylight_NN 
-,_, 
-there_EX 
-have_VHP 
-been_VBN 
-hundreds_NNS 
-of_IN 
-sightings_NNS 
-of_IN 
-these_DT 
-birds_NNS 
-flying_VVG 
-in_IN 
-every_DT 
-direction_NN 
-since_RB 
-sunrise_NN 
-._SENT 
+Although	IN 
+owls	NNS 
+normally	RB 
+hunt	VV
+at	IN 
+night	NN 
+and	CC 
+are	VBP 
+hardly	RB 
+ever	RB 
+seen	VVN 
+in	IN 
+daylight	NN 
+,	, 
+there	EX 
+have	VHP 
+been	VBN 
+hundreds	NNS 
+of	IN 
+sightings	NNS 
+of	IN 
+these	DT 
+birds	NNS 
+flying	VVG 
+in	IN 
+every	DT 
+direction	NN 
+since	RB 
+sunrise	NN 
+.	SENT 
 
 (94)
-Experts_NNS 
-are_VBP 
-unable_JJ 
-to_TO 
-explain_VV 
-why_WRB 
-the_DT 
-owls_NNS 
-have_VHP 
-suddenly_RB 
-changed_VVN 
-their_PP$ 
-sleeping_NN 
-pattern_NN 
-._SENT 
+Experts	NNS 
+are	VBP 
+unable	JJ 
+to	TO 
+explain	VV 
+why	WRB 
+the	DT 
+owls	NNS 
+have	VHP 
+suddenly	RB 
+changed	VVN 
+their	PP$ 
+sleeping	NN 
+pattern	NN 
+.	SENT 
 
 (95)
-"_'' 
-The_DT 
-newscaster_NN 
-allowed_VVD 
-himself_PP 
-a_DT grin_NN 
-._SENT 
-"_'' 
+"	'' 
+The	DT 
+newscaster	NN 
+allowed	VVD 
+himself	PP 
+a	DT 
+grin	NN 
+.	SENT 
+"	'' 
 
 (96) 
-Most_RBS 
-mysterious_JJ 
-._SENT 
+Most	RBS 
+mysterious	JJ 
+.	SENT 
 
 (97)
-And_CC 
-now_RB 
-,_, 
-over_IN 
-to_TO 
-Jim_NP 
-McGuffin_NP 
-with_IN 
-the_DT 
-weather_NN 
-._SENT 
+And	CC 
+now	RB 
+,	, 
+over	IN 
+to	TO 
+Jim	NP 
+McGuffin	NP 
+with	IN 
+the	DT 
+weather	NN 
+.	SENT 
 
 (98)
-Going_VVG 
-to_TO 
-be_VB 
-any_DT 
-more_JJR 
-showers_NNS 
-of_IN 
-owls_NNS 
-tonight_RB 
-,_, 
-Jim_NP 
-?_SENT 
-"_''
+Going	VVG 
+to	TO 
+be	VB 
+any	DT 
+more	JJR 
+showers	NNS 
+of	IN 
+owls	NNS 
+tonight	RB 
+,	, 
+Jim	NP 
+?	SENT 
+"	''
 
 (99)
-"_'' 
-Well_RB 
-,_, 
-Ted_NP 
-,_, 
-"_'' 
-said_VVD 
-the_DT 
-weatherman_NN 
-,_, 
-"_`` 
-I_PP 
-do_VVP 
-n't_RB 
-know_VV 
-about_IN 
-that_DT 
-,_, 
-but_CC 
-it_PP 
-'s_VBZ 
-not_RB 
-only_RB 
-the_DT 
-owls_NNS 
-that_WDT 
-have_VHP 
-been_VBN 
-acting_VVG 
-oddly_RB 
-today_NN 
-._SENT 
+"	'' 
+Well	RB 
+,	, 
+Ted	NP 
+,	, 
+"	'' 
+said	VVD 
+the	DT 
+weatherman	NN 
+,	, 
+"	`` 
+I	PP 
+do	VD 
+n't	RB 
+know	VV 
+about	IN 
+that	DT 
+,	, 
+but	CC 
+it	PP 
+'s	VBZ 
+not	RB 
+only	RB 
+the	DT 
+owls	NNS 
+that	DT 
+have	VHP 
+been	VBN 
+acting	VVG 
+oddly	RB 
+today	NN 
+.	SENT 
 
 (100)
-Viewers_NNS 
-as_IN 
-far_RB 
-apart_RB 
-as_RB 
-Kent_NP 
-,_, 
-Yorkshire_NP 
-,_, 
-and_CC 
-Dundee_NP 
-have_VHP 
-been_VBN 
-phoning_VVG 
-in_IN 
-to_TO 
-tell_VV 
-me_PP 
-that_IN/that 
-instead_RB 
-of_IN 
-the_DT 
-rain_NN 
-I_PP 
-promised_VVD 
-yesterday_NN 
-,_, 
-they_PP 
-'ve_VHP 
-had_VHD 
-a_DT 
-downpour_NN 
-of_IN 
-shooting_NN 
-stars_NNS 
-!_SENT  
+Viewers	NNS 
+as	IN 
+far	RB 
+apart	RB 
+as	RB 
+Kent	NP 
+,	, 
+Yorkshire	NP 
+,	, 
+and	CC 
+Dundee	NP 
+have	VHP 
+been	VBN 
+phoning	VVG 
+in	IN 
+to	TO 
+tell	VV 
+me	PP 
+that	IN/that 
+instead	RB 
+of	IN 
+the	DT 
+rain	NN 
+I	PP 
+promised	VVD 
+yesterday	NN 
+,	, 
+they	PP 
+'ve	VHP 
+had	VHD 
+a	DT 
+downpour	NN 
+of	IN 
+shooting	NN 
+stars	NNS 
+!	SENT  
