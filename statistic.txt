@@ -15,7 +15,6 @@ thể_hiện 1
 bất_bình 1
 nhà_sản_xuất 1
 sử_dụng 1
-quá_đà 1
 hiệu_ứng 1
 hình_ảnh 1
 chân_thật 1
@@ -60,14 +59,11 @@ vệ_tinh 1
 phát_kiến 1
 công_nghệ 4
 hứa_hẹn 1
-ngày_càng 2
 tham_gia 1
 tập_đoàn 1
-Dù_vậy 1
 chuyên_gia 1
 khái_niệm 1
 thực_tế 1
-đối_với 1
 Công_nghệ 1
 vấn_đề 3
 duy_nhất 2
@@ -83,7 +79,6 @@ tốc_độ 1
 Chính_phủ 4
 một_số 4
 dự_án 2
-nhấn_mạnh 2
 thủ_đô 1
 Bắc_Kinh 1
 khả_thi 1
