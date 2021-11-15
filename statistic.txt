@@ -15,6 +15,7 @@ thể_hiện 1
 bất_bình 1
 nhà_sản_xuất 1
 sử_dụng 1
+quá_đà 1
 hiệu_ứng 1
 hình_ảnh 1
 chân_thật 1
@@ -47,6 +48,7 @@ kinh_doanh 1
 hoạt_động 3
 tối_đa 2
 công_suất 1
+Bồ_Đào 1
 đảm_bảo 1
 nghỉ_ngơi 1
 lao_động 3
@@ -64,6 +66,7 @@ tập_đoàn 1
 chuyên_gia 1
 khái_niệm 1
 thực_tế 1
+đối_với 1
 Công_nghệ 1
 vấn_đề 3
 duy_nhất 2
@@ -79,6 +82,7 @@ tốc_độ 1
 Chính_phủ 4
 một_số 4
 dự_án 2
+nhấn_mạnh 2
 thủ_đô 1
 Bắc_Kinh 1
 khả_thi 1
@@ -93,15 +97,14 @@ chứng_kiến 1
 dữ_liệu 1
 Thống_kê 1
 Lao_động 1
-góp_phần 1
 lạm_phát 1
-thị_trường 1
+thị_trường 2
 biểu_hiện 1
 số_lượng 2
 bất_động_sản 1
-thị_trường 1
 bao_gồm 1
 sơ_cấp 1
+thứ_cấp 1
 nhu_cầu 1
 khả_năng 2
 tài_chính 1
@@ -123,6 +126,7 @@ công_tác 1
 phòng_chống 1
 khó_khăn 1
 thời_gian 2
+Vì_thế 1
 Tổng_Bí_thư 1
 nhận_xét 1
 nỗ_lực 3
@@ -155,10 +159,11 @@ nước_ngoài 1
 quan_điểm 1
 cứng_rắn 1
 nhân_quyền 1
-Bắc_Kinh 1
+Bắc_Kinh_coi 1
 kiềm_chế 1
 sức_mạnh 1
 chính_trị 1
+ngày_càng 1
 gia_tăng 2
 Bộ_trưởng 1
 Y_tế 2
@@ -171,6 +176,7 @@ trách_nhiệm 3
 đơn_vị 1
 tham_mưu 2
 Tô_Thị_Bích_Châu 1
+làm_sao 1
 cơ_quan 1
 cơ_chế 1
 hành_chính 1
@@ -183,7 +189,7 @@ báo_cáo 1
 giải_trình 1
 quan_tâm 1
 Thủ_tướng 3
-Phạm_Minh 1
+Phạm_Minh_Chính 1
 đề_cập 1
 kế_hoạch 2
 liên_quan 1
@@ -192,13 +198,14 @@ tình_hình 1
 ý_kiến 1
 trực_tuyến 1
 không_thể 1
-Bộ_Giáo_dục_và_Đào_tạo 1
+kéo_dài 1
+Giáo_dục 1
+Đào_tạo 1
 phối_hợp 1
 khẩn_trương 2
 xây_dựng 1
 lộ_trình 1
 phương_án 1
-mở_cửa 1
 trường_học 1
 Báo_cáo 1
 định_hướng 1
@@ -213,6 +220,7 @@ hiệu_quả 3
 Nghị_quyết 1
 phù_hợp 2
 kịp_thời 1
+Cùng_với 1
 hoàn_thiện 1
 thẩm_quyền 1
 Chiến_lược 1
@@ -222,6 +230,7 @@ phương_pháp 1
 quản_lý 2
 Zero_Covid 1
 rủi_ro 1
+giảm_thiểu 1
 tử_vong 3
 thực_hiện 1
 quy_định 1
@@ -242,6 +251,7 @@ như_vậy 1
 củng_cố 1
 dự_đoán 1
 quốc_gia 2
+trở_thành 1
 đặc_hữu 1
 tương_lai 1
 hàng_loạt 1
@@ -260,6 +270,7 @@ cam_kết 1
 công_sức 1
 chia_sẻ 1
 cơ_hội 1
+một_cách 1
 bình_đẳng 1
 tập_thể 1
 phát_hiện 1
