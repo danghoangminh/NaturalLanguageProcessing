@@ -48,7 +48,6 @@ kinh_doanh 1
 hoạt_động 3
 tối_đa 2
 công_suất 1
-Bồ_Đào 1
 đảm_bảo 1
 nghỉ_ngơi 1
 lao_động 3
@@ -90,7 +89,6 @@ Bắc_Kinh 1
 khả_thi 1
 thực_phẩm 2
 quan_trọng 2
-tăng_giá 2
 ảnh_hưởng 1
 nghiêm_trọng 1
 tiêu_dùng 1
@@ -102,7 +100,7 @@ Thống_kê 1
 Lao_động 1
 góp_phần 1
 lạm_phát 1
-cầu_thị_trường 1
+thị_trường 1
 biểu_hiện 1
 số_lượng 2
 bất_động_sản 1
@@ -130,7 +128,6 @@ công_tác 1
 phòng_chống 1
 khó_khăn 1
 thời_gian 2
-Vì_thế 1
 Tổng_Bí_thư 1
 nhận_xét 1
 nỗ_lực 3
@@ -163,7 +160,7 @@ nước_ngoài 1
 quan_điểm 1
 cứng_rắn 1
 nhân_quyền 1
-._Bắc_Kinh_coi 1
+Bắc_Kinh 1
 kiềm_chế 1
 sức_mạnh 1
 chính_trị 1
@@ -179,7 +176,6 @@ trách_nhiệm 3
 đơn_vị 1
 tham_mưu 2
 Tô_Thị_Bích_Châu 1
-làm_sao 1
 cơ_quan 1
 cơ_chế 1
 hành_chính 1
@@ -193,15 +189,14 @@ giải_trình 1
 quan_tâm 1
 Thủ_tướng 3
 Phạm_Minh 1
-Chính_đề_cập 1
+đề_cập 1
 kế_hoạch 2
 liên_quan 1
-tình_hình_dịch 1
+tình_hình 1
 Đồng_tình 1
 ý_kiến 1
 trực_tuyến 1
 không_thể 1
-kéo_dài 1
 Bộ_Giáo_dục_và_Đào_tạo 1
 phối_hợp 1
 khẩn_trương 2
@@ -214,7 +209,6 @@ Báo_cáo 1
 định_hướng 1
 chiến_lược 2
 tổng_thể 2
-dịch_Covid-19 1
 khẳng_định 1
 thích_ứng 2
 an_toàn 2
@@ -224,7 +218,6 @@ hiệu_quả 3
 Nghị_quyết 1
 phù_hợp 2
 kịp_thời 1
-Cùng_với 1
 hoàn_thiện 1
 thẩm_quyền 1
 Chiến_lược 1
@@ -234,7 +227,6 @@ phương_pháp 1
 quản_lý 2
 Zero_Covid 1
 rủi_ro 1
-giảm_thiểu 1
 tử_vong 3
 thực_hiện 1
 quy_định 1
@@ -255,7 +247,6 @@ như_vậy 1
 củng_cố 1
 dự_đoán 1
 quốc_gia 2
-trở_thành 1
 đặc_hữu 1
 tương_lai 1
 hàng_loạt 1
@@ -274,7 +265,6 @@ cam_kết 1
 công_sức 1
 chia_sẻ 1
 cơ_hội 1
-một_cách 1
 bình_đẳng 1
 tập_thể 1
 phát_hiện 1
