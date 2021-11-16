@@ -7,10 +7,10 @@ with open("word_seg.txt", 'r', encoding='utf-8') as f:
         for word in words:
             if "_" not in word:
                 continue
-            if word not in list_word:
-                list_word[word] = 1
+            if word.lower() not in list_word:
+                list_word[word.lower()] = 1
             else:
-                list_word[word] += 1
+                list_word[word.lower()] += 1
                 
 with open("statistic.txt", 'w', encoding='utf-8') as f:
     for key, value in list_word.items():
